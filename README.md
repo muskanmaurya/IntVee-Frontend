@@ -7,11 +7,11 @@
 
 ## 📸 Platform Overview
 
-![Interview Intelligence Dashboard](./assets/screenshots/dashboard-preview.png)
+![Interview Intelligence Dashboard](./public/screenshots/dashboard_preview.png)
 
-![Interview Behavioral Dashboard](./assets/screenshots/behavioral_dashboard-preview.png)
+![Interview Behavioral Dashboard](./public/screenshots/behavioral_dashboard_preview.png)
 
-![Interview Roadmap Dashboard](./assets/screenshots/roadmap-preview.png)
+![Interview Roadmap Dashboard](./public/screenshots/roadmap_preview.png)
 
 An end-to-end, AI-driven job preparation platform designed to bridge candidate skill gaps and automate interview readiness. The application analyzes user profiles against target job descriptions using Generative AI to generate personalized preparation roadmaps, targeted questions, and ATS-friendly PDF resumes.
 
